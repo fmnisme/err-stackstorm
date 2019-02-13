@@ -1,3 +1,6 @@
+Activate development has moved to https://github.com/nzlosh/err-stackstorm
+---
+
 # err-stackstorm
 A plugin to run StackStorm actions, bringing StackStorm's chatops to Errbot.
 
